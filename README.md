@@ -9,3 +9,4 @@ Algorithm:
 6. Formation of the trajectory of the mobile charging station according to these points at a certain speed
 7. The speed is calculated so as to ensure the simultaneous arrival of the UAV and the ground station
 8. Visualization of movement with plotting of speed changes via pyplot
+Download all files and run main file
